@@ -1,3 +1,42 @@
+
+
+🔥 AI ENGINEERING HUB: 93+ DỰ ÁN AI PRODUCTION-READY – TỪ RAG, LLM, ĐẾN MULTI-AGENT, CÓ LỘ TRÌNH HỌC CHI TIẾT!
+
+Bạn đã bao giờ học lý thuyết AI rất nhiều nhưng đến lúc làm dự án thực tế thì… bí? Hay bạn đã từng xây dựng vài ứng dụng AI nhưng muốn nâng cấp lên cấp độ production mà không biết bắt đầu từ đâu?
+
+AI Engineering Hub chính là câu trả lời – một kho tài nguyên học tập và thực hành AI toàn diện, với 93+ dự án production-ready được phân chia theo 3 cấp độ, từ beginner đến advanced.
+
+1️⃣ AI ENGINEERING HUB LÀ GÌ?
+Đây là một trung tâm tài nguyên AI Engineering mã nguồn mở, được thiết kế để giúp bạn học và xây dựng AI một cách thực tế. Không chỉ là lý thuyết, repo này tập trung vào các dự án thực tế có thể áp dụng ngay – từ OCR, RAG, LLM Agents, đến fine-tuning và production systems.
+
+Repo đã đạt hơn 36.000 sao trên GitHub, được cộng đồng đánh giá rất cao.
+
+2️⃣ 3 CẤP ĐỘ – PHÙ HỢP CHO MỌI TRÌNH ĐỘ
+1. Beginner Projects (22 dự án)
+Dành cho người mới bắt đầu. Tập trung vào các thành phần đơn lẻ và các ứng dụng cơ bản như OCR, RAG đơn giản, và chat interfaces.
+
+Ví dụ: LaTeX OCR với Llama, Local ChatGPT với DeepSeek-R1, Gemma-3 OCR.
+
+2. Intermediate Projects (48 dự án)
+Dành cho những ai đã có kiến thức nền tảng. Tập trung vào các workflow phức tạp hơn như AI Agents, multi-step reasoning, và các ứng dụng RAG nâng cao.
+
+3. Advanced Projects (23 dự án)
+Dành cho những ai muốn chinh phục các khái niệm phức tạp như fine-tuning, production systems, và các kiến trúc AI quy mô lớn.
+
+3️⃣ CÁC CHỦ ĐỀ CHÍNH
+Repo bao phủ hầu hết các lĩnh vực quan trọng của AI Engineering hiện đại:
+
+Chủ đề 1: LLMs (Large Language Models) – Các ứng dụng sử dụng mô hình ngôn ngữ lớn
+
+Chủ đề 2: AG (Retrieval-Augmented Generation) – Từ cơ bản đến nâng cao
+
+Chủ đề 3: AI Agents – Các ứng dụng agent thực tế, bao gồm multi-agent systems
+
+Chủ đề 4: OCR & Vision – Nhận dạng ký tự quang học và các ứng dụng thị giác máy tính
+
+Chủ đề 5: Production Systems – Cách đưa ứng dụng AI lên production
+
+
 <p align="center">
   <a href="https://trendshift.io/repositories/12800">
     <img src="assets/TRENDING-BADGE.png" alt="Trending Badge" style="width: 250px; height: 55px;" width="250" height="55"/>
